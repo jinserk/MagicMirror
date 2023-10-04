@@ -1,0 +1,6 @@
+[submodule "modules/MMM-GooglePhotos"]
+	path = modules/MMM-GooglePhotos
+	url = https://github.com/eouia/MMM-GooglePhotos.git
+[submodule "modules/MMM-GoogleCalendar"]
+	path = modules/MMM-GoogleCalendar
+	url = https://github.com/randomBrainstormer/MMM-GoogleCalendar.git
