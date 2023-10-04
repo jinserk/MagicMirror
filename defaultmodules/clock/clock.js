@@ -118,7 +118,9 @@ Module.register("clock", {
 		timeWrapper.className = "time bright large light";
 		hoursWrapper.className = "clock-hour-digital";
 		minutesWrapper.className = "clock-minute-digital";
-		secondsWrapper.className = "clock-second-digital dimmed";
+		//secondsWrapper.className = "clock-second-digital dimmed";
+		secondsWrapper.className = "seconds dimmed";
+		periodWrapper.className = "seconds dimmed";
 		sunWrapper.className = "sun dimmed small";
 		moonWrapper.className = "moon dimmed small";
 		weekWrapper.className = "week dimmed medium";
