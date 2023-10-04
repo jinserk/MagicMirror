@@ -122,6 +122,7 @@ Module.register("clock", {
 		dateWrapper.className = "date normal medium";
 		timeWrapper.className = "time bright large light";
 		secondsWrapper.className = "seconds dimmed";
+		periodWrapper.className = "seconds dimmed";
 		sunWrapper.className = "sun dimmed small";
 		moonWrapper.className = "moon dimmed small";
 		weekWrapper.className = "week dimmed medium";
