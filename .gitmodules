@@ -4,3 +4,6 @@
 [submodule "modules/MMM-GoogleCalendar"]
 	path = modules/MMM-GoogleCalendar
 	url = https://github.com/randomBrainstormer/MMM-GoogleCalendar.git
+[submodule "modules/MMM-OpenWeatherForecast"]
+	path = modules/MMM-OpenWeatherForecast
+	url = https://github.com/jclarke0000/MMM-OpenWeatherForecast.git
