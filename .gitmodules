@@ -10,3 +10,6 @@
 	path = modules/MMM-OpenWeatherForecast
 	url = https://github.com/jclarke0000/MMM-OpenWeatherForecast.git
     ignore = dirty
+[submodule "modules/MMM-3Day-Forecast"]
+	path = modules/MMM-3Day-Forecast
+	url = https://github.com/nigel-daniels/MMM-3Day-Forecast.git
