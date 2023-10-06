@@ -6,6 +6,3 @@
 	path = modules/MMM-GoogleCalendar
 	url = https://github.com/randomBrainstormer/MMM-GoogleCalendar.git
     ignore = dirty
-[submodule "modules/MMM-3Day-Forecast"]
-	path = modules/MMM-3Day-Forecast
-	url = https://github.com/nigel-daniels/MMM-3Day-Forecast.git
