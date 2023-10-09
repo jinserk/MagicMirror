@@ -6,3 +6,5 @@
 /coverage
 package-lock.json
 **.ics
+.gitmodules
+.prettierignore
