@@ -6,6 +6,6 @@
 	path = modules/MMM-GoogleCalendar
 	url = https://github.com/randomBrainstormer/MMM-GoogleCalendar.git
     ignore = dirty
-[submodule "modules/MMM-3Day-Forecast"]
-	path = modules/MMM-3Day-Forecast
-	url = git@github.com:jinserk/MMM-3Day-Forecast.git
+[submodule "modules/MMM-2Day-NOAA-Forecast"]
+	path = modules/MMM-2Day-NOAA-Forecast
+	url = git@github.com:jinserk/MMM-2Day-NOAA-Forecast.git

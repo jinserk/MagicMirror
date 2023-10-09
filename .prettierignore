@@ -1,3 +1,5 @@
 /config
 /coverage
 package-lock.json
+.gitmodules
+.prettierignore
