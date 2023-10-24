@@ -1,11 +1,3 @@
-[submodule "modules/MMM-GooglePhotos"]
-	path = modules/MMM-GooglePhotos
-	url = https://github.com/eouia/MMM-GooglePhotos.git
-    ignore = dirty
-[submodule "modules/MMM-GoogleCalendar"]
-	path = modules/MMM-GoogleCalendar
-	url = https://github.com/randomBrainstormer/MMM-GoogleCalendar.git
-    ignore = dirty
 [submodule "modules/MMM-2Day-NOAA-Forecast"]
 	path = modules/MMM-2Day-NOAA-Forecast
 	url = git@github.com:jinserk/MMM-2Day-NOAA-Forecast.git
