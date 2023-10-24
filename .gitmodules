@@ -1,3 +1,9 @@
 [submodule "modules/MMM-2Day-NOAA-Forecast"]
 	path = modules/MMM-2Day-NOAA-Forecast
 	url = git@github.com:jinserk/MMM-2Day-NOAA-Forecast.git
+[submodule "modules/MMM-GooglePhotos"]
+	path = modules/MMM-GooglePhotos
+	url = git@github.com:jinserk/MMM-GooglePhotos.git
+[submodule "modules/MMM-GoogleCalendar"]
+	path = modules/MMM-GoogleCalendar
+	url = git@github.com:jinserk/MMM-GoogleCalendar.git
