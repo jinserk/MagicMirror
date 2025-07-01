@@ -7,3 +7,6 @@
 [submodule "modules/MMM-GoogleCalendar"]
 	path = modules/MMM-GoogleCalendar
 	url = git@github.com:jinserk/MMM-GoogleCalendar.git
+[submodule "modules/MMM-BackgroundSlideshow"]
+	path = modules/MMM-BackgroundSlideshow
+	url = https://github.com/darickc/MMM-BackgroundSlideshow.git
