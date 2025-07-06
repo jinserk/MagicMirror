@@ -10,3 +10,6 @@
 [submodule "modules/MMM-BackgroundSlideshow"]
 	path = modules/MMM-BackgroundSlideshow
 	url = https://github.com/darickc/MMM-BackgroundSlideshow.git
+[submodule "modules/MMM-ImmichSlideShow"]
+	path = modules/MMM-ImmichSlideShow
+	url = https://github.com/pelaxa/MMM-ImmichSlideShow.git
