@@ -1,6 +1,6 @@
 :root {
-  --color-text: #999;
-  --color-text-dimmed: #777;
+  --color-text: #ddd;
+  --color-text-dimmed: #bbb;
   --color-text-bright: #fff;
   --color-background: #000;
   --font-primary: "Roboto Condensed";

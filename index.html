@@ -55,5 +55,14 @@
     <script type="text/javascript" src="js/positions.js"></script>
     <script type="module" src="js/module.js"></script>
     <script type="module" src="js/main.js"></script>
+    <!-- recovery when wifi reconnection -->
+    <script>
+      window.addEventListener('online', function() {
+        console.log('[AutoReload] Wi-Fi reconnected. Reloading page...');
+        setTimeout(function() {
+          window.location.reload();
+        }, 1500);
+      });
+    </script>
   </body>
 </html>
